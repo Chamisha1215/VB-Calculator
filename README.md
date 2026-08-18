@@ -13,7 +13,7 @@ A simple Windows Forms Calculator application built with VB.NET and Visual Studi
 
 ## How to Run
 1. Clone this repository
-2. Open `Calculator.slnx` in Visual Studio 2022
+2. Open `Calculator.slnx` in Visual Studio 2026
 3. Press F5 to run
 
 ## Built With
